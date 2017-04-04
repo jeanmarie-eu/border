@@ -1,0 +1,13 @@
+Package: border
+Type: Package
+Version: 0.0.1
+Authors@R: c(person("Jean-Marie", "Lepioufle", , "jm@nexmodeling.com", c("aut","cre")))
+Title: Deal with world
+Description: The package deals with world border.
+  The package focuses on quickly getting the spatial information on border.
+Depends:
+    R (>= 3.2.5)
+License: GPL-3
+Encoding: UTF-8
+LazyData: false
+RoxygenNote: 5.0.1
